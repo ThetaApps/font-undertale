@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Undertale Comic Sans';
+  src: url('Comic Sans.eot');
+  src: url('Comic Sans.woff') format('woff'),
+       url('Comic Sans.woff2') format('woff2'),
+       url('Comic Sans.ttf') format('truetype'),
+       url('Comic Sans.svg#Comic-Sans-UT') format('svg');
+       url('Comic Sans.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
