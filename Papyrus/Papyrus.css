@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Undertale Papyrus';
+  src: url('Papyrus.eot');
+  src: url('Papyrus.woff') format('woff'),
+       url('Papyrus.ttf') format('truetype'),
+       url('Papyrus.svg#Papyrus-UT') format('svg');
+       url('Papyrus.woff2') format('woff2'),
+       url('Papyrus.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
