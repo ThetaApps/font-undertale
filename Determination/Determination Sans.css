@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Determination Sans';
+  src: url('Determination Sans.eot');
+  src: url('Determination Sans.woff2') format('woff2'),
+       url('Determination Sans.woff') format('woff'),
+       url('Determination Sans.ttf') format('truetype'),
+       url('Determination Sans.svg#DeterminationSans') format('svg'),
+       url('Determination Sans.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DTM-Sans';
+  src: url('Determination Sans.eot');
+  src: url('Determination Sans.woff2') format('woff2'),
+       url('Determination Sans.woff') format('woff'),
+       url('Determination Sans.ttf') format('truetype'),
+       url('Determination Sans.svg#DeterminationSans') format('svg'),
+       url('Determination Sans.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}

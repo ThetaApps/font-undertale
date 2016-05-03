@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Monster Friend Back';
+  src: url('Monster Friend Back.eot');
+  src: url('Monster Friend Back.woff2') format('woff2'),
+       url('Monster Friend Back.woff') format('woff'),
+       url('Monster Friend Back.ttf') format('truetype'),
+       url('Monster Friend Back.svg#MonsterFriendBack') format('svg'),
+       url('Monster Friend Back.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Monster Friend Fore';
+  src: url('Monster Friend Fore.eot');
+  src: url('Monster Friend Fore.woff2') format('woff2'),
+       url('Monster Friend Fore.woff') format('woff'),
+       url('Monster Friend Fore.ttf') format('truetype'),
+       url('Monster Friend Fore.svg#MonsterFriendFore') format('svg'),
+       url('Monster Friend Fore.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}

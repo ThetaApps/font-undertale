@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'MERCY';
+  src: url('MERCY.eot');
+  src: url('MERCY.woff2') format('woff2'),
+       url('MERCY.woff') format('woff'),
+       url('MERCY.ttf') format('truetype'),
+       url('MERCY.svg#MERCY') format('svg'),
+       url('MERCY.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
